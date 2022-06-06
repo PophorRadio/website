@@ -2,6 +2,6 @@ import * as React from "react"
 
 export default function GatsbyContentfulLogo() {
   return (
-    <h2>HOME</h2>
+    <h3>HOME</h3>
   )
 }
